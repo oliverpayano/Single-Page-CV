@@ -1,2 +1,2 @@
 
-https://github.com/oliverpayano/Single-Page-CV.git
+https://github.com/oliverpayano/Single-Page-CV
